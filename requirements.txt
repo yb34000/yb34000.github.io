@@ -1,5 +1,6 @@
 pandas
 streamlit
 matplolib
+matplotlib-inline==0.1.6
 numpy
 seaborn
