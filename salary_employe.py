@@ -5,7 +5,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as pt
+import matplotlib as pt
 import seaborn as sn
 
 
