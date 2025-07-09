@@ -1,6 +1,5 @@
 pip==24.0
 streamlit
-python==3.4
 pandas
 numpy
 matplolib
