@@ -1,4 +1,4 @@
-pip
+pip==24.0
 streamlit
 python==3.12
 pandas
