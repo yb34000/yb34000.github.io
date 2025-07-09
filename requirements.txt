@@ -1,3 +1,4 @@
+streamlit
 python<3.5
 pandas
 numpy
