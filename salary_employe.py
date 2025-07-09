@@ -114,9 +114,7 @@ value_max = data_base['remote_ratio'].max()
 #curseur de seection
 select_ratio = st.sidebar.slider(
     "Choisir le ratio de télétravail (soit 0%;   50%;   ou 100%)",
-    value_min,
-    value_max,
-    (value_min, value_max),
+    value = [value_min, value_max],
     step=50
 )
 data_base = data_base[(data_base['remote_ratio'] >= select_ratio[0]) & (data_base['remote_ratio'] <= select_ratio[1]) ]
