@@ -2,5 +2,5 @@ pip==24.0
 streamlit
 pandas
 numpy
-matplolib
+matplotlib
 seaborn
