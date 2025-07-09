@@ -1,6 +1,7 @@
 pip==24.0
 streamlit
 pandas
+openpyxl
 numpy
 matplotlib
 seaborn
